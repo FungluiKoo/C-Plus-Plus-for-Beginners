@@ -1,3 +1,5 @@
+**Please First read the project description.**
+
 # Ex.1
 
 ## About compiling
