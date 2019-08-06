@@ -1,0 +1,12 @@
+Divide by zero
+0 2 
+25
+
+Not enough operands
+Not enough operands
+Not enough operands
+Not enough operands
+Not enough operands
+4
+2 3 
+-2
