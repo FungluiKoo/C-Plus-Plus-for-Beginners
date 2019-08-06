@@ -1,0 +1,15 @@
+12
+0 A gold 3
+1 B platinum 2
+1 C regular 10
+3 D silver 1
+12 E gold 2
+13 F gold 2
+14 G gold 2
+15 H gold 20
+20 I platinum 2
+21 J regular 2
+22 K regular 2
+23 L regular 12
+28 M silver 12
+

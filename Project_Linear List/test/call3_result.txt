@@ -1,0 +1,85 @@
+Starting tick #0
+Call from A a gold member
+Answering call from A
+Starting tick #1
+Call from B a platinum member
+Call from C a regular member
+Starting tick #2
+Starting tick #3
+Call from D a silver member
+Answering call from B
+Starting tick #4
+Starting tick #5
+Answering call from D
+Starting tick #6
+Answering call from C
+Starting tick #7
+Starting tick #8
+Starting tick #9
+Starting tick #10
+Starting tick #11
+Starting tick #12
+Call from E a gold member
+Starting tick #13
+Call from F a gold member
+Starting tick #14
+Call from G a gold member
+Starting tick #15
+Call from H a gold member
+Starting tick #16
+Answering call from E
+Starting tick #17
+Starting tick #18
+Answering call from F
+Starting tick #19
+Starting tick #20
+Call from I a platinum member
+Answering call from I
+Starting tick #21
+Call from J a regular member
+Starting tick #22
+Call from K a regular member
+Answering call from G
+Starting tick #23
+Call from L a regular member
+Starting tick #24
+Answering call from H
+Starting tick #25
+Starting tick #26
+Starting tick #27
+Starting tick #28
+Starting tick #29
+Starting tick #30
+Starting tick #31
+Starting tick #32
+Starting tick #33
+Starting tick #34
+Starting tick #35
+Starting tick #36
+Starting tick #37
+Starting tick #38
+Starting tick #39
+Starting tick #40
+Starting tick #41
+Starting tick #42
+Starting tick #43
+Starting tick #44
+Answering call from J
+Starting tick #45
+Starting tick #46
+Answering call from K
+Starting tick #47
+Starting tick #48
+Answering call from L
+Starting tick #49
+Starting tick #50
+Starting tick #51
+Starting tick #52
+Starting tick #53
+Starting tick #54
+Starting tick #55
+Starting tick #56
+Starting tick #57
+Starting tick #58
+Starting tick #59
+Starting tick #60
