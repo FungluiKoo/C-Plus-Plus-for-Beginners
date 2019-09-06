@@ -7,7 +7,7 @@ All texts, images, illustrations and other material on this Internet site are su
 Welcome to C++ for beginers! Here you will find friendly small codes and projects designed specfically for C++ beginners with limited programming experiences. I hope that you find them helpful, and do not forget to STAR this resipository :)
 
 **Acknowledgment**
-Special thanks to my Professor QIAN Weikang ([@qianwk](https://github.com/qianwk)) and my Teaching Assistant LIU Yihao ([@tc-imba](https://github.com/tc-imba)), et al. for their tremendous efforts in preparing lectures and recitations, and great efforts in helping with our naive problems. Also, this resipository can never has its day without them. The problem sets herein are NOT subject to copyright held by Funglui, but to Dr. QIAN.
+Special thanks to my Professor QIAN Weikang ([@qianwk](https://github.com/qianwk)) and my Teaching Assistant LIU Yihao ([@tc-imba](https://github.com/tc-imba)), et al. for their tremendous efforts in preparing lectures and recitations, and great efforts in helping with our naive problems. Also, this resipository can never has its day without them. The problem sets and other course materials for [VE280](https://github.com/ve280) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) herein are NOT subject to copyright held by Funglui, but to Dr. QIAN.
 
 **Disclaimer Notice**
 The information here is preliminary and is subject to change at any time without notice. The information is only intended to provide general information without obligation, and is not deemed to replace detailed and individual consultation and advice.
