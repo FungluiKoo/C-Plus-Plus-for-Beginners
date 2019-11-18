@@ -5,7 +5,7 @@ Copyright©2017-2019 Funglui Koo. All rights reserved.
 All texts, images, illustrations and other material on this Internet site are subject to copyright held by Funglui Koo unless otherwise stated. The licenses to which this work apply are in the LICENSE.md file.
 
 **About** 
-Welcome to C++ for beginers! Here you will find friendly small codes and projects designed specfically for C++ beginners with limited programming experiences. I hope that you find them helpful, and do not forget to STAR this resipository :)
+Welcome to C++ for beginers! Here you will find friendly small codes and projects designed specfically for C++ beginners with limited programming experiences. I hope that you find them helpful, and do not forget to STAR this repository :)
 
 **Acknowledgment**
 Special thanks to my Professor QIAN Weikang ([@qianwk](https://github.com/qianwk)) and my Teaching Assistant LIU Yihao ([@tc-imba](https://github.com/tc-imba)), et al. for their tremendous efforts in preparing lectures and recitations, and great efforts in helping with our naive problems. Also, this resipository can never has its day without them. The problem sets and other course materials for [VE280](https://github.com/ve280) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) herein are NOT subject to copyright held by Funglui, but to Dr. QIAN.
