@@ -1,4 +1,5 @@
 # C-Plus-Plus-for-Beginners
+[![Fenglei](https://img.shields.io/badge/Copyright-Fenglei%20Gu-blue.svg)](https://i6.cims.nyu.edu/~fg1121/index.htm)
 [![HitCount](http://hits.dwyl.io/FungluiKoo/C-Plus-Plus-for-Beginners.svg)](http://hits.dwyl.io/FungluiKoo/C-Plus-Plus-for-Beginners)
 
 Copyright©2017-2019 Funglui Koo. All rights reserved.
