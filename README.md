@@ -1,4 +1,5 @@
 # C-Plus-Plus-for-Beginners
+[![HitCount](http://hits.dwyl.io/FungluiKoo/C-Plus-Plus-for-Beginners.svg)](http://hits.dwyl.io/FungluiKoo/C-Plus-Plus-for-Beginners)
 
 Copyright©2017-2019 Funglui Koo. All rights reserved.
 All texts, images, illustrations and other material on this Internet site are subject to copyright held by Funglui Koo unless otherwise stated. The licenses to which this work apply are in the LICENSE.md file.
