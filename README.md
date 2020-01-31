@@ -1,9 +1,6 @@
 # C-Plus-Plus-for-Beginners
-[![Fenglei](https://img.shields.io/badge/Copyright-Fenglei%20Gu-blue.svg)](https://i6.cims.nyu.edu/~fg1121/index.htm)
+[![Fenglei](https://img.shields.io/badge/Gu-Fenglei-blue.svg)](https://i6.cims.nyu.edu/~fg1121/index.htm)
 [![HitCount](http://hits.dwyl.io/FungluiKoo/C-Plus-Plus-for-Beginners.svg)](http://hits.dwyl.io/FungluiKoo/C-Plus-Plus-for-Beginners)
-
-Copyright©2017-2019 Funglui Koo. All rights reserved.
-All texts, images, illustrations and other material on this Internet site are subject to copyright held by Funglui Koo unless otherwise stated. The licenses to which this work apply are in the LICENSE.md file.
 
 **About** 
 Welcome to C++ for beginers! Here you will find friendly small codes and projects designed specfically for C++ beginners with limited programming experiences. I hope that you find them helpful, and do not forget to STAR this repository :)
